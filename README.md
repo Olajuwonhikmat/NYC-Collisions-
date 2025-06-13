@@ -61,4 +61,4 @@ This project presents a detailed analysis of motor vehicle collisions in New Yor
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](https://github.com/Olajuwonhikmat/NYC-Collisions-/blob/main/NYC%20Collision%20dashboard%20.PNG)
